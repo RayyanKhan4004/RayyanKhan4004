@@ -50,7 +50,7 @@ I build frontend interfaces with **React** and **Next.js**, focused on clean com
 
 ## 🏆 Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=RayyanKhan4004&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/RayyanKhan4004)
+[![](https://github-profile-trophy-coral-three.vercel.app/?username=RayyanKhan4004&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/RayyanKhan4004)
 
 ---
 
