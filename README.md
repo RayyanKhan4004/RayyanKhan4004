@@ -43,8 +43,8 @@ I build frontend interfaces with **React** and **Next.js**, focused on clean com
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=RayyanKhan4004&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)](https://github.com/RayyanKhan4004)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayyanKhan4004&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/RayyanKhan4004)
+[![](https://github-readme-stats-seven-chi-27.vercel.app/api?username=RayyanKhan4004&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)](https://github.com/RayyanKhan4004)
+[![](https://github-readme-stats-seven-chi-27.vercel.app/api/top-langs/?username=RayyanKhan4004&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/RayyanKhan4004)
 
 ---
 
